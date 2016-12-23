@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="materialcolorpicker__app_name">انتخاب رنگ استاندارد</string>
+    <string name="materialcolorpicker__btnSelectColor">انتخاب</string>
+    <string name="materialcolorpicker__descLib">پنجره انتخاب رنگ</string>
+    <string name="materialcolorpicker__errHex">کد رنگ وارد شده صحیح نیست</string>
+</resources>
